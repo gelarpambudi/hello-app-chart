@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hello-app-charts
+description: A Helm chart for Oy Frontend App
+type: application
+version: 0.3.5
+appVersion: 1.0.0
